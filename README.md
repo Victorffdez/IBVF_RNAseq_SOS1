@@ -1,7 +1,8 @@
 # RNASeq pipeline. From FASTQ to DEGs and GO analysis.
 This repository contains all the code used in the analysis of RNA-seq data from rice (_O. sativa_). You can see two different directories:
 
-- **Pre-processing, Alignment & Quantification.** All the scripts (bash scripts) corresponding to the following stages are deposited here: pre-processing (*RawData_Fastqc.sh* & *TrimmedData_Fastqc.sh*), alignment (*Alignment_hisat2.sh*), assembly and quantification (*Assembly_&_Quantification_stringtie.sh*). 
+- **Pre-processing, Alignment & Quantification.** Bash scripts corresponding to the following stages are deposited here: pre-processing (*RawData_Fastqc.sh* & *TrimmedData_Fastqc.sh*), alignment (*Alignment_hisat2.sh*), assembly and quantification (*Assembly_&_Quantification_stringtie.sh*).
+  
 - **Differential Expression & Enrichment.**
 
 
