@@ -13,5 +13,3 @@ Please read all the comments in the scripts carefully. If you have any questions
 *victor.fernandez@imibic.org* 
 
 *Bioinformatician* 
-
-*Maimonides Biomedical Research Institute of Cordoba (IMIBIC)*
