@@ -3,7 +3,7 @@ This repository contains all the code used in the analysis of RNA-seq data from 
 
 - **Pre-processing, Alignment & Quantification.** Bash scripts corresponding to the following stages are deposited here: pre-processing (*RawData_Fastqc.sh* & *TrimmedData_Fastqc.sh*), alignment (*Alignment_hisat2.sh*), assembly and quantification (*Assembly_&_Quantification_stringtie.sh*).
   
-- **Differential Expression Analysis & GO Enrichment.** R scripts to perform all the steps necessary to analyze a gene expression matrix from RNA sequencing using the new Tuxedo protocol.
+- **Differential Expression Analysis & GO Enrichment.** R scripts to perform all the steps necessary to analyze a gene expression matrix from RNA sequencing using the new Tuxedo protocol. Here, among many options, you will find scripts to normalize the raw data, perform an exhaustive exploratory analysis, use limma to obtain DEGs between conditions, perform a GO term enrichment analysis, and so on.
 
 
 Please read all the comments in the scripts carefully. If you have any questions, please do not hesitate to contact me at the follow e-mail address:
