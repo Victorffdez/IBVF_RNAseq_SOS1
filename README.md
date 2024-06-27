@@ -3,7 +3,7 @@ This repository contains all the code used in the analysis of RNA-seq data from 
 
 - **Pre-processing, Alignment & Quantification.** Bash scripts corresponding to the following stages are deposited here: pre-processing (*RawData_Fastqc.sh* & *TrimmedData_Fastqc.sh*), alignment (*Alignment_hisat2.sh*), assembly and quantification (*Assembly_&_Quantification_stringtie.sh*).
   
-- **Differential Expression & Enrichment.**
+- **Differential Expression Analysis & GO Enrichment.**
 
 
 Please read all the comments in the scripts carefully. If you have any questions, please do not hesitate to contact me at the follow e-mail address:
